@@ -26,6 +26,7 @@ dependencies {
     })
 
     //add lib
+    compile 'com.github.mancj:MaterialSearchBar:0.7.1'
     compile 'com.amulyakhare:com.amulyakhare.textdrawable:1.0.1'
     compile 'com.readystatesoftware.sqliteasset:sqliteassethelper:+'
 
