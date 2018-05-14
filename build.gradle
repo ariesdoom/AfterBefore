@@ -29,6 +29,10 @@ allprojects {
             }
         }
 
+        maven {
+            url "https://jitpack.io"
+            // Google's Maven repository
+        }
 
 
     }
